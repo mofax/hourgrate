@@ -2,3 +2,4 @@ postgres-data
 migrations
 docker_sql
 src
+bundle
