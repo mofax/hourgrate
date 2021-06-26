@@ -1,3 +1,5 @@
 node_modules
 migrations
 docker_sql
+postgres-data
+lib
